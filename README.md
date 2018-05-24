@@ -1,2 +1,2 @@
 # BlackBox
-this is a black box, is all we know
+this is a black box, its all we know
